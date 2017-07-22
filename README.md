@@ -1,4 +1,4 @@
-# IronPython Tutorials
+# NeedfulSoftware - IronPython Tutorials
 
 This repository contains the examples for our [IronPython tutorials](http://www.needfulsoftware.com/IronPython).
 
