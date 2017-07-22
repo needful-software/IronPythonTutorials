@@ -1,0 +1,3 @@
+import HelloWorldModule
+
+HelloWorldModule.PrintHelloWorld()
