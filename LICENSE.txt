@@ -1,11 +1,3 @@
-# IronPython Tutorials
-
-This repository contains the examples for our [IronPython tutorials](http://www.needfulsoftware.com/IronPython).
-
-## List of examples
-
-## License
-
 Copyright (c) 2015-2017 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
