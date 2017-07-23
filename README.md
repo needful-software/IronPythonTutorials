@@ -5,8 +5,10 @@ This repository contains the examples for our [IronPython tutorials](http://www.
 ## List of examples
 
 ### C# integration
-- [PythonScriptExecution1](https://github.com/NeedfulSoftware/IronPythonTutorials/tree/master/CSharpIntegration/PythonScriptExecution1): Simple example showing how to execute a script hardcoded as a string.
-- [PythonScriptExecution2](https://github.com/NeedfulSoftware/IronPythonTutorials/tree/master/CSharpIntegration/PythonScriptExecution2): Simple example showing how to execute a script from a file.
+- [PythonScriptExecution1](https://github.com/NeedfulSoftware/IronPythonTutorials/tree/master/CSharpIntegration/PythonScriptExecution1): Example showing how to execute a script hardcoded as a string.
+- [PythonScriptExecution2](https://github.com/NeedfulSoftware/IronPythonTutorials/tree/master/CSharpIntegration/PythonScriptExecution2): Example showing how to execute a script from a file.
+- [PythonScriptExecution3](https://github.com/NeedfulSoftware/IronPythonTutorials/tree/master/CSharpIntegration/PythonScriptExecution3): Example showing how to execute scripts that import modules.
+- [PythonScriptExecution4](https://github.com/NeedfulSoftware/IronPythonTutorials/tree/master/CSharpIntegration/PythonScriptExecution4): Example showing how to use the standard library.
 
 
 ## License
