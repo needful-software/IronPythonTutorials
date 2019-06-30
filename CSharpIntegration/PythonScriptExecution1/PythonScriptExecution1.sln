@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonScriptExecution1", "PythonScriptExecution1\PythonScriptExecution1.csproj", "{06B73A00-D5D5-49B1-B509-93328A2E37E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonScriptExecution1", "PythonScriptExecution1\PythonScriptExecution1.csproj", "{B39CC843-63AC-4830-B3A6-D2ACEC38BE65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06B73A00-D5D5-49B1-B509-93328A2E37E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06B73A00-D5D5-49B1-B509-93328A2E37E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06B73A00-D5D5-49B1-B509-93328A2E37E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06B73A00-D5D5-49B1-B509-93328A2E37E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39CC843-63AC-4830-B3A6-D2ACEC38BE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39CC843-63AC-4830-B3A6-D2ACEC38BE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39CC843-63AC-4830-B3A6-D2ACEC38BE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39CC843-63AC-4830-B3A6-D2ACEC38BE65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {928B598F-B16B-450B-B5FA-2EC5EF79847A}
 	EndGlobalSection
 EndGlobal
